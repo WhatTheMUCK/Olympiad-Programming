@@ -1,4 +1,4 @@
-[Лекция 6: Бинарный поиск](https://www.youtube.com/watch?)  
+[Лекция 6: Бинарный поиск](https://www.youtube.com/watch?v=YENpZexHfuk)  
 [Домашнее задание 6](https://contest.yandex.ru/contest/27844/enter/)  
 [Разбор задач лекции 6](https://youtu.be/fqsuy5rwZhk)  
 
