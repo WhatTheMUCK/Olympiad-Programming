@@ -1,6 +1,6 @@
 [Лекция 1: Сложность, тестирование, особые случаи](https://youtu.be/QLhqYNsPIVo)  
 [Домашнее задание 1](https://contest.yandex.ru/contest/27393/enter/)  
-[Разбор задач лекции 1](https://contest.yandex.ru/contest/27393/enter/)  
+[Разбор задач лекции 1](https://youtu.be/mdJdB7On4AM)  
 
 # Подтверждении работоспособности задач
 
